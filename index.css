@@ -1,0 +1,52 @@
+.page_name {
+    font-size: 40px;
+    color: rgb(88, 114, 146);
+  }
+  
+.user_details {
+    color: rgb(252, 155, 131);
+    font-size: 40px;
+    font-family: calibri;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .heading_2 {
+    color: rgb(141, 96, 172);
+    font-size: 40px;
+    font-family: calibri;
+  }
+
+  .pararaph_1 {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: calibri;
+  }
+
+  .heading_3 {
+    color: rgb(60, 39, 74);
+    font-size: 40px;
+    font-family:cursive
+  }
+
+  .list_1 {
+    color: rgb(12, 12, 12);
+    font-size: 25px;
+    font-family: calibri;
+  }
+
+  .heading_4 {
+    color: rgb(60, 39, 74);
+    font-size: 40px;
+    font-family:cursive
+  }
+
+  .pararaph_2 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+    font-family: calibri;
+  }
